@@ -2,7 +2,7 @@
 
 Independent developer building the small things business software doesn't do out of the box: integrations, custom reports and data clean-ups on top of platform APIs.
 
-**Platforms I focus on:** bexio · AroFlo · simPRO, and other business tools with a documented API.
+**Platforms I focus on:** bexio · Xero · AroFlo · simPRO, and other business tools with a documented API or export.
 
 ## What I build
 
@@ -17,6 +17,13 @@ Independent developer building the small things business software doesn't do out
 - **You own everything.** Every delivery comes with the full source code and a one-page handover note, so anyone can maintain it later.
 - **Replies within one business day**, by email or chat.
 
+## Security and privacy
+
+- **Your data stays with you.** What I deliver runs on your own computer or in your own account. Nothing is sent to me or to any server of mine.
+- **No tracking.** Browser-based tools load no third-party scripts or analytics, and keep working with the internet switched off once the page is open.
+- **Least access.** If a job genuinely needs access to a system, it's read-only, time-limited and removed when the job is done. I never ask for your passwords.
+- **No copies kept.** Sample files you send me to scope a job are deleted once it's finished.
+
 ## For implementation partners and bookkeepers
 
 If your clients ask for things that need code, like a custom report, a connection to another system or a bulk data fix, I can be your back end. You keep the client relationship, and I deliver to you.
@@ -27,4 +34,4 @@ ddlab.dev90@gmail.com
 
 ---
 
-<sub>Not affiliated with or endorsed by bexio, AroFlo or Simpro Group. Product names are used only to describe compatibility.</sub>
+<sub>Not affiliated with or endorsed by bexio, Xero, AroFlo or Simpro Group. Product names are used only to describe compatibility.</sub>
